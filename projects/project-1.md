@@ -1,4 +1,4 @@
-# Project 0: Banking Application
+# Project 1: Banking Application
 
 * Assigned Date: Tuesday **10/11/2022**
 * Due Date: **10/28/2022**
