@@ -1,4 +1,4 @@
-# Project-1: Employee Reimbursment System (ERS)
+# Project 2: Expense Reimbursment System (ERS)
 *Due Tuesday July 5th 2022*
 
 ## Executive Summary
@@ -8,7 +8,13 @@
 * Finance managers are authorized to approve and deny requests for expense reimbursement.
 
 #### Tech Stack
-Java 8, Servlet API, Apache Tomcat, Hibernate, PostgreSQL, HTML, CSS, JavaScript, Amazon EC2, Docker
+- Java 8
+- Javalin 
+- Hibernate ORM 
+- Oracle Database
+- JUnit 4
+- Mockito
+- HTML/CSS/JavaScript
 
 * The back-end system shall use Hibernate which manages a connection to an **AWS RDS Postgres database**. 
 * The application shall deploy onto a Tomcat Server, hosted remotely on an EC2. 
@@ -39,9 +45,12 @@ Java 8, Servlet API, Apache Tomcat, Hibernate, PostgreSQL, HTML, CSS, JavaScript
 - A Manager can view all Employees
 - A Manager can view reimbursement requests from a single Employee 
 
+<br>
 
 **State-chart Diagram (Reimbursement Statuses)** 
 ![](./imgs/state-chart.jpg)
+
+<br>
 
 **Reimbursement Types**
 
@@ -58,6 +67,8 @@ Employees must select the type of reimbursement as: LODGING, TRAVEL, FOOD, or OT
 
 **Activity Diagram**
 ![](./imgs/activity.jpg)
+
+<br>
 
 **Stretch Goals:** *These will count for extra credit and are entirely optional*
 * Users can upload a document or image of their receipt when submitting reimbursements which can stored in the database and reviewed by a financial manager.
