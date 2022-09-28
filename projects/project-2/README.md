@@ -11,6 +11,7 @@ Due: **Friday 12/02/2022**
 #### Tech Stack
 - Java 8
 - Javalin 
+- Selenium
 - Hibernate ORM 
 - Oracle Database
 - JUnit 4
