@@ -1,5 +1,5 @@
 # Project 2: Expense Reimbursment System (ERS)
-Assigned: **Monday 11/14/2022**
+Assigned: **Monday 11/14/2022** <br>
 Due: **Friday 12/02/2022**
 
 ## Executive Summary
@@ -17,13 +17,16 @@ Due: **Friday 12/02/2022**
 - Mockito
 - HTML/CSS/JavaScript
 
-* The back-end system shall use Hibernate which manages a connection to an **AWS RDS Postgres database**. 
-* The application shall deploy onto a Tomcat Server, hosted remotely on an EC2. 
-* The middle tier shall use Servlet technology for dynamic Web application development. 
+<br>
+
+### System Design
+* The back-end system shall use Hibernate which manages a connection to an **Oracle Database**. 
+* The application will use Javalin to manage HTTP Requests sent from a frontnend application, providing the UI.
+* The middle tier shall use Javalin for dynamic Web application development. 
 * The front-end view shall use HTML/CSS/JavaScript to make an application that can call server-side components and be styled with CSS. 
 * The middle tier shall follow proper layered architecture, and have reasonable test coverage of the service layer.
 
-#### Employee User Stories 
+### Employee User Stories 
 - An Employee can login
 - An Employee can view the Employee Homepage
 - An Employee can logout
@@ -35,7 +38,7 @@ Due: **Friday 12/02/2022**
 - An Employee can update their information
 - An Employee receives an email when one of their reimbursement requests is resolved (optional)
 
-#### Manager User Stories
+### Manager User Stories
 - A Manager can login
 - A Manager can view the Manager Homepage
 - A Manager can logout
