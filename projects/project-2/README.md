@@ -1,5 +1,6 @@
 # Project 2: Expense Reimbursment System (ERS)
-*Due Tuesday July 5th 2022*
+Assigned: **Monday 11/14/2022**
+Due: **Friday 12/02/2022**
 
 ## Executive Summary
 * The Expense Reimbursement System (ERS) will manage the process of reimbursing employees for expenses incurred while on company time. 
