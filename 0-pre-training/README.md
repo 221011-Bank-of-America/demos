@@ -1,4 +1,4 @@
-# BofA Pre-Training Schedule
+# Pre-Training Schedule
 Notes will be provided to accompany each day.
 
 ## Day 1
@@ -28,4 +28,3 @@ Notes will be provided to accompany each day.
   3. Add a line to the existing about-me.txt file about themselves
   4. Push the file to their branch
   5. Make a pull request to the main branch
-
