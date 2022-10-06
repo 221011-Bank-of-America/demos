@@ -3,9 +3,9 @@ Notes will be provided to accompany each day.
 
 ## Day 1
 
-1. Introductions
-2. Skill Survey
-3. High Level Overview of Full Stack Architecture
+1. Introduction
+2. High Level Overview of Full Stack Architecture
+3. Skill Survey
 
 4. **Project Plan**
 > Learners will partner up and plan hypothetical projects together with the following steps:
